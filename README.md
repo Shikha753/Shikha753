@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shikha
+- 👋 Hi, I’m Shikha.
 - 👀 I’m interested in web developement.
 - 🌱 I’m currently learning react and JavaScript.
 - 💞️ I’m looking to collaborate on Frontend project.
