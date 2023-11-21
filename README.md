@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shikha.
 - 👀 I’m interested in web developement.
-- 🌱 I’m currently learning react and JavaScript.
+- 🌱 I’m currently learning React and JavaScript.
 - 💞️ I’m looking to collaborate on Frontend project.
 - 📫 How to reach me shikhamaury7753@gmail.com
 
